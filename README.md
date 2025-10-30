@@ -1,7 +1,5 @@
 # Xen Orchestra Inventory Export Script
 
-This script exports a comprehensive inventory from a Xen Orchestra instance into a set of CSV files. It fetches details about hosts, pools, virtual machines (VMs), and virtual hard disks (VHDs).
-
 `xen-orchestra-inventory.sh` is designed to export **Xen Orchestra (XO)** inventory data directly via the **REST API**. It collects information about **Hosts**, **Pools**, **Virtual Machines (VMs)**, and **virtual hard disks (VHDs)**, then exports them into clean **CSV files** — ideal for reporting, CMDB integration, or capacity analysis.
 
 ## Purpose
