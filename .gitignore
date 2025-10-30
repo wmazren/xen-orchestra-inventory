@@ -3,3 +3,4 @@ xo-host.csv
 xo-pool.csv
 xo-vhd.csv
 xo-vms.csv
+*.csv
